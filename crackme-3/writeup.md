@@ -7,7 +7,7 @@ Target: mbb.exe
 Tipe: C++ Console Application
 Arsitektur: x86-64
 Tools: Ghidra
-Difficulty: 5.0 (Hard)
+Difficulty: 2.0 (Medium)
 
 # Proses dalam Ghidra
 ![Tampilan Decompiler Ghidra](bloop.jpeg)
@@ -25,7 +25,7 @@ Difficulty: 5.0 (Hard)
 - Artinya, username lu hurufnya nggak boleh sembarangan (biasanya dibatasi cuma boleh huruf abjad atau angka aja).
 
 - # Membuat script keygen.py
-- ![Tampilan script keygen](scirpt-keygen.png)
+- ![Tampilan script keygen](script-keygen.png)
 
 # Result
 ![Tampilan result](result3.jpeg)
