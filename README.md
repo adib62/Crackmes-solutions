@@ -5,17 +5,17 @@ Repositori ini berisi solusi dan dokumentasi untuk berbagai tantangan Reverse En
 
 Nama Tantangan : Access me please:)
 Tingkat kesulitan :1.0
-Status: selesai
+Status: ✅ selesai
 Keterangan : Analisis statis dan validasi input.
 
 Nama tantangan : Treasure
 Tingkat kesulitan :2.0
-Status: selesai
+Status: ✅ selesai
 Keterangan : mencari hidden password dengan biner yang dibungkus oleh python
 
 Nama tantangan : BiLoop_Cipher
-Tingkat kesulitan :3.0
-Status: selesai
+Tingkat kesulitan :2.0
+Status: ✅ selesai
 Keterangan : mencari Secret Key yang disembunyiin di dalam program
 
 # METODOLOGI
