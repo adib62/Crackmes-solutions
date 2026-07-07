@@ -25,7 +25,7 @@ Difficulty: 2.0 (Medium)
 - Artinya, username lu hurufnya nggak boleh sembarangan (biasanya dibatasi cuma boleh huruf abjad atau angka aja).
 
 - # Membuat script keygen.py
-- ![Tampilan script keygen](script-keygen.png)
+- ![Tampilan script keygen](keygen.png)
 
 # Result
 ![Tampilan result](result3.jpeg)
