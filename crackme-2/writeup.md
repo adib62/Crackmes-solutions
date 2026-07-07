@@ -12,7 +12,7 @@ Tools: Ghidra
 Difficulty: 2.2 (Medium)
 
 # PROSES DALAM GHIDRA
-![Tampilan Ghidra](ghidra treasure.jpeg)
+![Tampilan Ghidra](ghidra-treasure.jpeg)
 
 # Hasil eksekusi menggunakan terminal
-![Tampilan result2](result.jpeg)
+![Tampilan result2](result2.jpeg)
